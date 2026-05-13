@@ -1,0 +1,22 @@
+ING001|White Rice|grams|600.0|5000.0|18440.0
+ING002|Egg|pcs|400.0|30.0|79.0
+ING003|Cooking Oil|mL|239.5|2000.0|4770.0
+ING004|Garlic|grams|64.0|350.0|495.0
+ING005|Salt|grams|30.0|500.0|918.0
+ING006|Pepper|grams|41.75|50.0|58.0
+ING007|Beef Tapa|grams|220.0|500.0|660.0
+ING008|Tocino|grams|166.5|450.0|1110.0
+ING009|Longganisa|grams|164.0|400.0|800.0
+ING010|Spam|oz|227.5|12.0|32.0
+ING011|Bacon|grams|278.0|500.0|220.0
+ING012|Hotdog|grams|199.0|1000.0|3000.0
+ING013|Ulam Burger|pcs|64.0|6.0|10.0
+ING014|Corned Beef|grams|40.5|175.0|875.0
+ING015|Ham|pcs|73.5|9.0|27.0
+ING016|Footlong|pcs|105.0|5.0|2.0
+ING017|Bangus (Boneless)|pcs|195.0|6.0|18.0
+ING018|Black Coffee|grams|102.95|80.0|70.0
+ING019|Creamer|grams|112.95|400.0|800.0
+ING020|Calamansi|grams|135.0|1000.0|1950.0
+ING021|Sugar|grams|76.0|1000.0|1985.0
+ING022|Bottled Water|pcs|10.5|1.0|10.0

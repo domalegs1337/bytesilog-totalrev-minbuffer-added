@@ -1,0 +1,16 @@
+ITEM001|Silog|Garlic fried rice, egg, and choice of viand|20.0|50.0
+ITEM002|Tapsilog|Garlic fried rice, egg, and beef tapa|5.0|20.0
+ITEM003|Tocilog|Garlic fried rice, egg, and tocino|5.0|20.0
+ITEM004|Longsilog|Garlic fried rice, egg, and longganisa|5.0|20.0
+ITEM005|Spamsilog|Garlic fried rice, egg, and spam|5.0|20.0
+ITEM006|Baconsilog|Garlic fried rice, egg, and bacon|5.0|20.0
+ITEM007|Hotsilog|Garlic fried rice, egg, and hotdog|5.0|20.0
+ITEM008|Burgersilog|Garlic fried rice, egg, and burger patty|5.0|20.0
+ITEM009|Cornedbeefsilog|Garlic fried rice, egg, and corned beef|5.0|20.0
+ITEM010|Hamsilog|Garlic fried rice, egg, and ham|5.0|20.0
+ITEM011|Footlongsilog|Garlic fried rice, egg, and footlong|5.0|20.0
+ITEM012|Bangsilog|Garlic fried rice, egg, and bangus|5.0|20.0
+ITEM013|Black Coffee|Freshly brewed black coffee with sugar|5.0|20.0
+ITEM014|Black Coffee with Creamer|Black coffee with creamer and sugar|5.0|20.0
+ITEM015|Calamansi Juice|Fresh calamansi juice with sugar|5.0|20.0
+ITEM016|Bottled Water|500mL bottled water|5.0|20.0

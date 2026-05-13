@@ -1,0 +1,2 @@
+MANAGER|admin|admin123
+CASHIER|cashier|cashier123
